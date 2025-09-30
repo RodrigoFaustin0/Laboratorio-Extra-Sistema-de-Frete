@@ -1,5 +1,7 @@
 # Laboratorio-Extra-Sistema-de-Frete
 
+**Aluno: Rodrigo Faustino de Sousa**
+
 Você foi contratado para modelar o sistema de cálculo de custo de frete para uma empresa
 de logística. 
 
